@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'slxmysqldmz1.edge.is';
-$db['default']['username'] = 'maggi-reikningar';
-$db['default']['password'] = 'bz5tEaFrbM9T8h98';
-$db['default']['database'] = 'maggi-reikningar';
+$db['default']['hostname'] = '';
+$db['default']['username'] = '';
+$db['default']['password'] = '';
+$db['default']['database'] = '';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
